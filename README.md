@@ -25,7 +25,8 @@ Every Pokemon can also be categorized into Legendary or Non-Legendary. Legendary
 <img src="https://github.com/rengel44/Pokemon-DS/blob/main/horsea.PNG">
 <img src="https://github.com/rengel44/Pokemon-DS/blob/main/mew.PNG">
  
-I used Random Forest Classifier for the Machine Learning portion. The reason why I chose this was because it could take inputs to predict a result. Random forest can combine lots of trees for an even more accurate result. There are over 1000 Pokemon in this data set. My features were the six columns that had the stats of all Pokemon, HP, attack, defense, special attack, special defense, and speed. My label was the Legendary column. I used a train/test split of 70% training and 30% test. 
+I used Random Forest Classifier for the Machine Learning portion. The reason why I chose this was because it could take inputs to predict a result. Random forest can combine lots of trees for an even more accurate result. There are over 1000 Pokemon in this data set. My features were the six columns that had the stats of all Pokemon, HP, attack, defense, special attack, special defense, and speed. My label was the Legendary column. I used a train/test split of 70% training and 30% test.
+
 <img src="https://github.com/rengel44/Pokemon-DS/blob/main/test%20and%20train.PNG">
   
 ## Methods
