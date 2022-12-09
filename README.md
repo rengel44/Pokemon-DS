@@ -76,6 +76,8 @@ Next, I used this same comparsion to compare Legendary vs Non-Legendary stats.
  
 After training, the model had an accuracy of around 91-93%. For my first time working with something like this, I think that is pretty good. To put this to use, I created a user input into the console that after a user inputs six different stats, it will tell you if your Pokemon is Legendary or Non-Legendary.
 
+<img src="https://github.com/rengel44/Pokemon-DS/blob/main/accuracy.PNG">
+
 <img src="https://github.com/rengel44/Pokemon-DS/blob/main/user%20input%20code.PNG">
 
 I tested this by using some example Pokemon. I entered the stats of Mewtwo (Legendary), Meowth (Non-Legendary), Salamence (Non-Legendary), and Xurkitree (Legendary).
