@@ -6,3 +6,5 @@ My goal for this project was to analyze and visualize different information with
 The data I selected was from Kaggle which can be found [here](https://www.kaggle.com/datasets/maca11/all-pokemon-dataset).
 
 This data set has every Pokemon up until Calyrex Shadow Rider, the last Pokemon to be added in the previous generation. This data set includes regular pokemon, mega evolutions, legendary, and mythical pokemon. I originally wanted to add in the newest Pokemon, however, the games came out after I had started to work on this, and there was a lack of information
+
+Data preview:
